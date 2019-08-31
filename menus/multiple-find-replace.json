@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Multiple Find and Replace",
+        "submenu": [
+          {
+            "label": "Find and Replace",
+            "command": "multiple-find-replace:replace"
+          },
+          {
+            "label": "Open template",
+            "command": "multiple-find-replace:find"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Multiple Find and Replace",
+          "submenu": [
+            {
+              "label": "Find and Replace",
+              "command": "multiple-find-replace:replace"
+            },
+            {
+              "label": "Open template",
+              "command": "multiple-find-replace:find"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

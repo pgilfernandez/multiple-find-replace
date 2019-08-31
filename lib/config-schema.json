@@ -1,0 +1,30 @@
+{
+  "general": {
+    "type": "object",
+    "title": "General",
+    "properties": {
+      "strippingSintax": {
+        "type": "string",
+        "title": "Stripping sintax",
+        "default": " => ",
+        "description": "The sintax used to split each line between the FIND and REPLACE statements",
+        "order": 1
+      },
+      "matchCase": {
+        "type": "boolean",
+        "title": "Match case",
+        "description": "Case sensitive or disable it for case insensitive.",
+        "default": true,
+        "order": 2
+      },
+      "displayNotifications": {
+        "type": "boolean",
+        "title": "Display notifications",
+        "description": "Display plugin notifications as confirmations as the tasks done.",
+        "default": true,
+        "order": 3
+      }
+    },
+    "order": 1
+  }
+}
