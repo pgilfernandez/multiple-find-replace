@@ -1,18 +1,19 @@
 {
   "name": "multiple-find-replace",
   "main": "./lib/multiple-find-replace",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Multiple find and replace",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["multiple-find-replace:replace","multiple-find-replace:find"]
+    "atom-workspace": [
+      "multiple-find-replace:replace",
+      "multiple-find-replace:find"
+    ]
   },
   "repository": "https://github.com/pgilfernandez/multiple-find-replace",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
