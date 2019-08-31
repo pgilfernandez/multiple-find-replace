@@ -8,11 +8,13 @@ Multiple (or batch) Find and Replace using a template file as reference.
 
 - it works in whole document if nothing is selected or just in selection if there is something selected.
 
-- splitter sintax can be customized in the package settings.
+- split sintax can be customized in the package settings.
 
 - case sensitive or insensitive option for *FIND* command.
 
 - it also works not only with individual words but also with strings.
+
+- package setting to disable notifications
 
 ## Usage
 

@@ -1,3 +1,1 @@
 Find and replace me => Replaced!
-hello => bye
-xxx => 000

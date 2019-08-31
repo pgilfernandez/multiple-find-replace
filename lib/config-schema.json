@@ -3,9 +3,9 @@
     "type": "object",
     "title": "General",
     "properties": {
-      "strippingSintax": {
+      "splitSintax": {
         "type": "string",
-        "title": "Stripping sintax",
+        "title": "split sintax",
         "default": " => ",
         "description": "The sintax used to split each line between the FIND and REPLACE statements",
         "order": 1
