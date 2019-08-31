@@ -20,7 +20,7 @@
       "displayNotifications": {
         "type": "boolean",
         "title": "Display notifications",
-        "description": "Display plugin notifications as confirmations as the tasks done.",
+        "description": "Display plugin notifications as confirmations of tasks done.",
         "default": true,
         "order": 3
       }
