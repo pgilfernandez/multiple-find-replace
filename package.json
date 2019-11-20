@@ -10,6 +10,16 @@
       "multiple-find-replace:find"
     ]
   },
+  "homepage": "https://github.com/pgilfernandez/multiple-find-replace#readme",
+  "keywords": [
+    "multiple",
+    "find",
+    "replace",
+    "sublime",
+    "text",
+    "batch",
+    "pgilfernandez"
+],
   "repository": "https://github.com/pgilfernandez/multiple-find-replace",
   "license": "MIT",
   "engines": {
