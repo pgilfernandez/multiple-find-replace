@@ -5,7 +5,7 @@
     "properties": {
       "splitSintax": {
         "type": "string",
-        "title": "split sintax",
+        "title": "Split sintax",
         "default": " => ",
         "description": "The sintax used to split each line between the FIND and REPLACE statements",
         "order": 1
@@ -17,12 +17,19 @@
         "default": true,
         "order": 2
       },
+      "wholeWord": {
+        "type": "boolean",
+        "title": "Whole word",
+        "description": "Find only whole words.",
+        "default": false,
+        "order": 3
+      },
       "displayNotifications": {
         "type": "boolean",
         "title": "Display notifications",
         "description": "Display plugin notifications as confirmations of tasks done.",
         "default": true,
-        "order": 3
+        "order": 4
       }
     },
     "order": 1
