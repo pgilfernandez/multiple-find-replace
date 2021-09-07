@@ -12,7 +12,7 @@ Multiple (or batch) Find and Replace using a template file as reference.
 
 - case sensitive or insensitive option for *FIND* command.
 
-- it also works not only with individual words but also with strings.
+- find whole words or strings.
 
 - package setting to disable notifications
 
