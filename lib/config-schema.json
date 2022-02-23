@@ -3,11 +3,11 @@
     "type": "object",
     "title": "General",
     "properties": {
-      "splitSintax": {
+      "splitSyntax": {
         "type": "string",
-        "title": "Split sintax",
+        "title": "Split syntax",
         "default": " => ",
-        "description": "The sintax used to split each line between the FIND and REPLACE statements",
+        "description": "The syntax used to split each line between the FIND and REPLACE statements",
         "order": 1
       },
       "matchCase": {
